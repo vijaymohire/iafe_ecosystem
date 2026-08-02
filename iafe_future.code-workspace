@@ -1,0 +1,211 @@
+{
+    "folders": [
+
+        // ==========================================================
+        // IAFE INTEGRATION HUB
+        // ==========================================================
+
+        {
+            "name": "🏛️ IAFE │ Integration Hub",
+            "path": "."
+        },
+
+        // ==========================================================
+        // ACADEMY
+        // ==========================================================
+
+        {
+            "name": "🎓 Academy │ FAEP Education",
+            "path": "../faep-education"
+        },
+        {
+            "name": "🧪 Academy │ Client Labs",
+            "path": "../faep-client-lab"
+        },
+        {
+            "name": "🎓 Academy │ Learning Services",
+            "path": "../../gitlab/03_learning_services"
+        },
+
+        // ==========================================================
+        // PLATFORM
+        // ==========================================================
+
+        {
+            "name": "🧠 Platform │ QAI Base Platform",
+            "path": "../../gitlab/00_qai_base_platform"
+        },
+        {
+            "name": "⚙️ Platform │ Runtime",
+            "path": "../../gitlab/12_qai_runtime"
+        },
+        {
+            "name": "💻 Platform │ QAI Operating System",
+            "path": "../../gitlab/13_qai_os"
+        },
+        {
+            "name": "☁️ Platform │ Cloud Services",
+            "path": "../../gitlab/14_qai_cloud"
+        },
+        {
+            "name": "🤖 Platform │ Agent Platform",
+            "path": "../../gitlab/15_qai_agents"
+        },
+        {
+            "name": "⚙️ Platform │ GitLab Runner",
+            "path": "../../gitlab/gitlab-runner"
+        },
+
+        // ==========================================================
+        // PRODUCTS
+        // ==========================================================
+
+        {
+            "name": "📦 Products │ QAI Processor",
+            "path": "../../gitlab/10_qai_processor"
+        },
+        {
+            "name": "📦 Products │ QAI Datacenter",
+            "path": "../../gitlab/11_qai_datacenter"
+        },
+        {
+            "name": "📦 Products │ Solution Café",
+            "path": "../../gitlab/16_solution_cafe"
+        },
+        {
+            "name": "📦 Products │ Marketplace",
+            "path": "../../gitlab/17_marketplace"
+        },
+
+        // ==========================================================
+        // FACTORY
+        // ==========================================================
+
+        {
+            "name": "🏭 Factory │ HoldCo Factory",
+            "path": "../../gitlab/00_holdco_factory"
+        },
+        {
+            "name": "🏭 Factory │ Manufacturing",
+            "path": "../../gitlab/18_manufacturing"
+        },
+
+        // ==========================================================
+        // RESEARCH
+        // ==========================================================
+
+        {
+            "name": "🔬 Research │ Digital Twins",
+            "path": "../../gitlab/20_digital_twins"
+        },
+        {
+            "name": "🔬 Research │ Knowledge Graphs",
+            "path": "../../gitlab/21_knowledge_graphs"
+        },
+        {
+            "name": "🔬 Research │ Technology Portfolio",
+            "path": "../../gitlab/22_technology_portfolio"
+        },
+        {
+            "name": "🔬 Research │ QAI Research Hub",
+            "path": "../../gitlab/23_qai_research_hub"
+        },
+
+        // ==========================================================
+        // KNOWLEDGE
+        // ==========================================================
+
+        {
+            "name": "📚 Knowledge │ Standards",
+            "path": "../../gitlab/30_standards"
+        },
+        {
+            "name": "📚 Knowledge │ Patent Factory",
+            "path": "../../gitlab/31_patent_factory"
+        },
+        {
+            "name": "📚 Knowledge │ Innovation Office",
+            "path": "../../gitlab/32_innovation_office"
+        },
+
+        // ==========================================================
+        // GOVERNANCE
+        // ==========================================================
+
+        {
+            "name": "🏛️ Governance │ HoldCo Governance",
+            "path": "../../gitlab/00_holdco_governance"
+        },
+        {
+            "name": "🏛️ Governance │ Compliance",
+            "path": "../../gitlab/33_compliance"
+        },
+        {
+            "name": "🏛️ Governance │ Security",
+            "path": "../../gitlab/34_security"
+        },
+
+        // ==========================================================
+        // ECOSYSTEM
+        // ==========================================================
+
+        {
+            "name": "🌐 Ecosystem │ FAEP",
+            "path": "../../gitlab/02_faep_ecosystem"
+        },
+        {
+            "name": "🌆 Ecosystem │ Valley & City",
+            "path": "../../gitlab/01_qai_valley_city"
+        },
+        {
+            "name": "🌍 Ecosystem │ Global FAEP",
+            "path": "../../gitlab/35_global_faep"
+        },
+
+        // ==========================================================
+        // NATIONAL
+        // ==========================================================
+
+        {
+            "name": "🌍 National │ Transformation",
+            "path": "../../gitlab/40_national_transformation"
+        },
+        {
+            "name": "🏙️ National │ Smart Cities",
+            "path": "../../gitlab/41_smart_cities"
+        },
+
+        // ==========================================================
+        // SPACE
+        // ==========================================================
+
+        {
+            "name": "🛰️ Space │ Space Ecosystem",
+            "path": "../../gitlab/50_space_ecosystem"
+        },
+
+        // ==========================================================
+        // FUTURE
+        // ==========================================================
+
+        {
+            "name": "🚀 Future │ Experimental",
+            "path": "../../gitlab/90_experimental"
+        }
+
+    ],
+
+    "settings": {
+
+        "explorer.compactFolders": false,
+        "explorer.sortOrder": "type",
+        "explorer.confirmDelete": true,
+        "files.exclude": {
+            "**/.git": true
+        },
+
+        "git.autofetch": true,
+        "git.confirmSync": false
+
+    }
+}

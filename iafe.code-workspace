@@ -1,32 +1,47 @@
 {
-	"folders": [
+    "folders": [
         {
+            "name": "🏛️ IAFE Ecosystem (Integration Hub)",
             "path": "."
         },
         {
-            "path": "../faep-client-lab"
-        },
-        {
+            "name": "🎓 Academy │ FAEP Education",
             "path": "../faep-education"
         },
         {
+            "name": "🧪 Academy │ Client Labs",
+            "path": "../faep-client-lab"
+        },
+        {
+            "name": "🧠 Platform │ QAI Base Platform",
             "path": "../../gitlab/00_qai_base_platform"
         },
         {
+            "name": "⚙️ Platform │ GitLab Runner",
             "path": "../../gitlab/gitlab-runner"
         },
         {
+            "name": "🏭 Factory │ HoldCo Factory",
             "path": "../../gitlab/00_holdco_factory"
         },
         {
+            "name": "🏛️ Governance │ HoldCo Governance",
             "path": "../../gitlab/00_holdco_governance"
         },
         {
+            "name": "🌆 Ecosystem │ QAI Valley & City",
             "path": "../../gitlab/01_qai_valley_city"
         },
         {
+            "name": "🌐 Ecosystem │ FAEP Ecosystem",
             "path": "../../gitlab/02_faep_ecosystem"
         }
     ],
-    "settings": {}
+    "settings": {
+        "explorer.compactFolders": false,
+        "explorer.sortOrder": "type",
+        "files.exclude": {
+            "**/.git": true
+        }
+    }
 }

@@ -1,0 +1,20 @@
+Folder PATH listing
+Volume serial number is 00000066 60BA:9B53
+E:.
+|   .gitignore
+|   CHANGELOG.md
+|   CONTRIBUTING.md
+|   full_tree_sprint21_02Aug26_1.txt
+|   iafe.code-workspace
+|   LICENSE
+|   README.md
+|   ROADMAP.md
+|   
++---.github
++---assets
++---diagrams
++---docs
++---examples
++---frameworks
++---integrations
+\---interfaces
