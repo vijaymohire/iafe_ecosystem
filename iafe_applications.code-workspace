@@ -1,0 +1,194 @@
+{
+    "folders": [
+
+        {
+            "name": "📱 IAFE │ Applications",
+            "path": "."
+        },
+
+        // ==========================================================
+        // FOUNDATION
+        // ==========================================================
+
+        {
+            "name": "📦 Foundation │ SDK",
+            "path": "../iafe-sdk"
+        },
+        {
+            "name": "📜 Foundation │ Contracts",
+            "path": "../iafe-contracts"
+        },
+        {
+            "name": "🧬 Foundation │ Ontology",
+            "path": "../iafe-ontology"
+        },
+        {
+            "name": "📚 Foundation │ Registry",
+            "path": "../iafe-registry"
+        },
+
+        // ==========================================================
+        // PLATFORM
+        // ==========================================================
+
+        {
+            "name": "🧠 Platform │ QAI Base Platform",
+            "path": "../../gitlab/00_qai_base_platform"
+        },
+        {
+            "name": "🎛️ Platform │ Control Planes",
+            "path": "../iafe-control-planes"
+        },
+        {
+            "name": "🤖 Platform │ Agents",
+            "path": "../iafe-agents"
+        },
+
+        // ==========================================================
+        // IDEI
+        // ==========================================================
+
+        {
+            "name": "🌐 IDEI │ Infrastructure",
+            "path": "../iafe-idei"
+        },
+
+        // ==========================================================
+        // MDCF
+        // ==========================================================
+
+        {
+            "name": "🧭 MDCF │ Collaboration Framework",
+            "path": "../iafe-mdcf"
+        },
+
+        // ==========================================================
+        // APPLICATION DOMAINS
+        // ==========================================================
+
+        {
+            "name": "🎓 Applications │ Education",
+            "path": "../iafe-app-education"
+        },
+
+        {
+            "name": "🏭 Applications │ Manufacturing",
+            "path": "../iafe-app-manufacturing"
+        },
+
+        {
+            "name": "🏥 Applications │ Healthcare",
+            "path": "../iafe-app-healthcare"
+        },
+
+        {
+            "name": "🚜 Applications │ Agriculture",
+            "path": "../iafe-app-agriculture"
+        },
+
+        {
+            "name": "🏙️ Applications │ Smart Cities",
+            "path": "../iafe-app-smartcity"
+        },
+
+        {
+            "name": "🚛 Applications │ Logistics",
+            "path": "../iafe-app-logistics"
+        },
+
+        {
+            "name": "✈️ Applications │ Aerospace",
+            "path": "../iafe-app-aerospace"
+        },
+
+        {
+            "name": "🛰️ Applications │ Space",
+            "path": "../iafe-app-space"
+        },
+
+        {
+            "name": "🏦 Applications │ Finance",
+            "path": "../iafe-app-finance"
+        },
+
+        {
+            "name": "⚡ Applications │ Energy",
+            "path": "../iafe-app-energy"
+        },
+
+        {
+            "name": "🛡️ Applications │ Defense",
+            "path": "../iafe-app-defense"
+        },
+
+        {
+            "name": "📡 Applications │ Telecommunications",
+            "path": "../iafe-app-telecom"
+        },
+
+        {
+            "name": "🌍 Applications │ Government",
+            "path": "../iafe-app-government"
+        },
+
+        {
+            "name": "🤝 Applications │ Public Services",
+            "path": "../iafe-app-public-services"
+        },
+
+        {
+            "name": "🏢 Applications │ Enterprise",
+            "path": "../iafe-app-enterprise"
+        },
+
+        {
+            "name": "🏠 Applications │ Home & Personal",
+            "path": "../iafe-app-home"
+        },
+
+        {
+            "name": "🤖 Applications │ Robotics",
+            "path": "../iafe-app-robotics"
+        },
+
+        {
+            "name": "🧠 Applications │ AI Assistants",
+            "path": "../iafe-app-ai"
+        },
+
+        {
+            "name": "🔍 Applications │ Search",
+            "path": "../iafe-app-search"
+        },
+
+        {
+            "name": "📞 Applications │ Communications",
+            "path": "../iafe-app-communications"
+        }
+
+    ],
+
+    "settings": {
+
+        "explorer.compactFolders": false,
+
+        "explorer.sortOrder": "type",
+
+        "files.exclude": {
+            "**/.git": true
+        },
+
+        "search.exclude": {
+            "**/.git": true,
+            "**/node_modules": true,
+            "**/.venv": true,
+            "**/bin": true,
+            "**/obj": true
+        },
+
+        "workbench.editor.enablePreview": false,
+
+        "explorer.confirmDelete": false
+
+    }
+}

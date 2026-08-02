@@ -1,0 +1,51 @@
+{
+    "folders": [
+
+        {
+            "name": "🏛️ IAFE │ Foundation",
+            "path": "."
+        },
+
+        // ==========================================================
+        // FOUNDATION
+        // ==========================================================
+
+        {
+            "name": "📦 Foundation │ SDK",
+            "path": "../iafe-sdk"
+        },
+        {
+            "name": "📜 Foundation │ Contracts",
+            "path": "../iafe-contracts"
+        },
+        {
+            "name": "🧬 Foundation │ Ontology",
+            "path": "../iafe-ontology"
+        },
+        {
+            "name": "📚 Foundation │ Registry",
+            "path": "../iafe-registry"
+        }
+
+    ],
+
+    "settings": {
+
+        "explorer.compactFolders": false,
+
+        "explorer.sortOrder": "type",
+
+        "files.exclude": {
+            "**/.git": true
+        },
+
+        "search.exclude": {
+            "**/.git": true,
+            "**/node_modules": true,
+            "**/.venv": true,
+            "**/bin": true,
+            "**/obj": true
+        }
+
+    }
+}

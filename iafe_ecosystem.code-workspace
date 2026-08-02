@@ -1,0 +1,134 @@
+{
+    "folders": [
+
+        {
+            "name": "🌍 IAFE │ Ecosystem",
+            "path": "."
+        },
+
+        // ==========================================================
+        // FOUNDATION
+        // ==========================================================
+
+        {
+            "name": "📦 Foundation │ SDK",
+            "path": "../iafe-sdk"
+        },
+        {
+            "name": "📜 Foundation │ Contracts",
+            "path": "../iafe-contracts"
+        },
+        {
+            "name": "🧬 Foundation │ Ontology",
+            "path": "../iafe-ontology"
+        },
+        {
+            "name": "📚 Foundation │ Registry",
+            "path": "../iafe-registry"
+        },
+
+        // ==========================================================
+        // PLATFORM
+        // ==========================================================
+
+        {
+            "name": "🎛️ Platform │ Control Planes",
+            "path": "../iafe-control-planes"
+        },
+        {
+            "name": "🤖 Platform │ Agents",
+            "path": "../iafe-agents"
+        },
+        {
+            "name": "🏗️ Platform │ Reference Architectures",
+            "path": "../iafe-reference-architectures"
+        },
+
+        // ==========================================================
+        // ACADEMY
+        // ==========================================================
+
+        {
+            "name": "🎓 Academy │ FAEP Education",
+            "path": "../faep-education"
+        },
+        {
+            "name": "🧪 Academy │ Client Labs",
+            "path": "../faep-client-lab"
+        },
+
+        // ==========================================================
+        // CORE PLATFORM
+        // ==========================================================
+
+        {
+            "name": "🧠 Platform │ QAI Base Platform",
+            "path": "../../gitlab/00_qai_base_platform"
+        },
+
+        // ==========================================================
+        // FACTORY
+        // ==========================================================
+
+        {
+            "name": "🏭 Factory │ HoldCo Factory",
+            "path": "../../gitlab/00_holdco_factory"
+        },
+
+        // ==========================================================
+        // GOVERNANCE
+        // ==========================================================
+
+        {
+            "name": "🏛️ Governance │ HoldCo Governance",
+            "path": "../../gitlab/00_holdco_governance"
+        },
+
+        // ==========================================================
+        // ECOSYSTEM
+        // ==========================================================
+
+        {
+            "name": "🌆 Ecosystem │ QAI Valley & City",
+            "path": "../../gitlab/01_qai_valley_city"
+        },
+        {
+            "name": "🌐 Ecosystem │ FAEP Ecosystem",
+            "path": "../../gitlab/02_faep_ecosystem"
+        },
+
+        // ==========================================================
+        // MARKETPLACE
+        // ==========================================================
+
+        {
+            "name": "🛒 Marketplace │ IAFE Marketplace",
+            "path": "../iafe-marketplace"
+        }
+
+    ],
+
+    "settings": {
+
+        "explorer.compactFolders": false,
+
+        "explorer.sortOrder": "type",
+
+        "files.exclude": {
+            "**/.git": true
+        },
+
+        "search.exclude": {
+            "**/.git": true,
+            "**/node_modules": true,
+            "**/.venv": true,
+            "**/bin": true,
+            "**/obj": true
+        },
+
+        "workbench.editor.enablePreview": false,
+
+        "explorer.confirmDelete": false
+
+    }
+}

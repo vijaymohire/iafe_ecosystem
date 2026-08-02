@@ -2,7 +2,7 @@
     "folders": [
 
         {
-            "name": "🚀 IAFE │ Future & Innovation",
+            "name": "🚀 IAFE │ Release Engineering",
             "path": "."
         },
 
@@ -22,11 +22,19 @@
             "name": "🧬 Foundation │ Ontology",
             "path": "../iafe-ontology"
         },
+        {
+            "name": "📚 Foundation │ Registry",
+            "path": "../iafe-registry"
+        },
 
         // ==========================================================
         // PLATFORM
         // ==========================================================
 
+        {
+            "name": "🧠 Platform │ QAI Base Platform",
+            "path": "../../gitlab/00_qai_base_platform"
+        },
         {
             "name": "🎛️ Platform │ Control Planes",
             "path": "../iafe-control-planes"
@@ -35,9 +43,13 @@
             "name": "🤖 Platform │ Agents",
             "path": "../iafe-agents"
         },
+        {
+            "name": "🏗️ Platform │ Reference Architectures",
+            "path": "../iafe-reference-architectures"
+        },
 
         // ==========================================================
-        // CURRENT ARCHITECTURE
+        // IAFE PROGRAMS
         // ==========================================================
 
         {
@@ -48,70 +60,60 @@
             "name": "🧭 MDCF │ Collaboration Framework",
             "path": "../iafe-mdcf"
         },
+        {
+            "name": "🌍 Ecosystem │ IAFE",
+            "path": "../iafe"
+        },
 
         // ==========================================================
-        // FUTURE PROGRAMS
+        // APPLICATIONS
         // ==========================================================
 
         {
-            "name": "🌍 Future │ Global Digital Infrastructure",
-            "path": "../iafe-global"
+            "name": "📱 Applications",
+            "path": "../iafe-applications"
+        },
+
+        // ==========================================================
+        // ACADEMY
+        // ==========================================================
+
+        {
+            "name": "🎓 Academy │ FAEP Education",
+            "path": "../faep-education"
+        },
+
+        // ==========================================================
+        // RELEASE
+        // ==========================================================
+
+        {
+            "name": "📄 Release │ Documentation",
+            "path": "../release-documentation"
         },
         {
-            "name": "🛰️ Future │ Space & Satellite Networks",
-            "path": "../iafe-space"
+            "name": "🧪 Release │ Validation",
+            "path": "../release-validation"
         },
         {
-            "name": "📡 Future │ Intelligent Networking",
-            "path": "../iafe-network"
+            "name": "📦 Release │ Packaging",
+            "path": "../release-packaging"
         },
         {
-            "name": "☁️ Future │ Cloud Fabric",
-            "path": "../iafe-cloud"
+            "name": "🏷️ Release │ Versioning",
+            "path": "../release-versioning"
         },
         {
-            "name": "🔍 Future │ Semantic Search",
-            "path": "../iafe-search"
+            "name": "📋 Release │ Compliance",
+            "path": "../release-compliance"
         },
         {
-            "name": "🧠 Future │ Knowledge Fabric",
-            "path": "../iafe-knowledge"
+            "name": "📊 Release │ Reports",
+            "path": "../release-reports"
         },
         {
-            "name": "🤖 Future │ Robotics & Humanoids",
-            "path": "../iafe-robotics"
-        },
-        {
-            "name": "📞 Future │ Intelligent Communications",
-            "path": "../iafe-communications"
-        },
-        {
-            "name": "🔐 Future │ Zero Trust & PQC Security",
-            "path": "../iafe-security"
-        },
-        {
-            "name": "👁️ Future │ Observability",
-            "path": "../iafe-observability"
-        },
-        {
-            "name": "🧩 Future │ Digital Twins",
-            "path": "../iafe-digital-twins"
-        },
-        {
-            "name": "🌐 Future │ Edge Computing",
-            "path": "../iafe-edge"
-        },
-        {
-            "name": "⚛️ Future │ Quantum Services",
-            "path": "../iafe-quantum"
-        },
-        {
-            "name": "📈 Future │ Future Standards",
-            "path": "../iafe-standards-next"
-        },
-        {
-            "name": "🧪 Future │ Experimental Applications",
-            "path": "../iafe-experimental-apps"
+            "name": "🌐 Release │ Publishing",
+            "path": "../release-publishing"
         }
 
     ],
@@ -136,7 +138,11 @@
 
         "workbench.editor.enablePreview": false,
 
-        "explorer.confirmDelete": false
+        "explorer.confirmDelete": false,
+
+        "git.autofetch": true,
+
+        "git.confirmSync": false
 
     }
 }

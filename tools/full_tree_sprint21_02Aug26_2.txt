@@ -1,0 +1,81 @@
+Folder PATH listing
+Volume serial number is 00000003 60BA:9B53
+E:.
+|   .gitignore
+|   ARCHITECTURE.md
+|   CHANGELOG.md
+|   CONTRIBUTING.md
+|   Documentation_Structure_Generator.ps1
+|   full_tree_sprint21_02Aug26_2.txt
+|   iafe.code-workspace
+|   iafe_future.code-workspace
+|   LICENSE
+|   PRINCIPLES.md
+|   README.md
+|   ROADMAP.md
+|   VISION.md
+|   
++---.github
++---assets
++---diagrams
++---docs
+|   |   ACADEMY_FACTORY_MODEL.md
+|   |   CAPABILITY_MATRIX.md
+|   |   DEPENDENCY_MODEL.md
+|   |   ENTERPRISE_CAPABILITY_MAP.md
+|   |   GOVERNANCE_MODEL.md
+|   |   INTEGRATION_GUIDE.md
+|   |   MULTI_LEVEL_ARCHITECTURE.md
+|   |   OVERVIEW.md
+|   |   POLICY_FRAMEWORK.md
+|   |   PRODUCER_CONSUMER_MODEL.md
+|   |   QAI_INTEGRATION.md
+|   |   REPOSITORY_MAP.md
+|   |   
+|   +---academy
+|   +---ecosystem
+|   +---factory
+|   +---governance
+|   +---knowledge
+|   +---platform
+|   +---products
+|   +---research
+|   \---roadmaps
++---examples
++---frameworks
+|       academy.md
+|       ecosystem.md
+|       factory.md
+|       faep.md
+|       fsdp.md
+|       governance.md
+|       innovation.md
+|       knowledge.md
+|       qai.md
+|       README.md
+|       
++---integrations
+|       academy_factory.md
+|       academy_research.md
+|       ecosystem.md
+|       factory_platform.md
+|       platform_governance.md
+|       products_platform.md
+|       README.md
+|       research_factory.md
+|       
++---interfaces
+|       IAcademy.md
+|       IFactory.md
+|       IGovernance.md
+|       IIntegration.md
+|       IKnowledge.md
+|       IProduct.md
+|       IQAIPlatform.md
+|       IRepository.md
+|       IResearch.md
+|       README.md
+|       
+\---tools
+        full_tree_sprint21_02Aug26_1.txt
+        

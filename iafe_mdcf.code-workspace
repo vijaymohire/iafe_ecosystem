@@ -2,7 +2,7 @@
     "folders": [
 
         {
-            "name": "🚀 IAFE │ Future & Innovation",
+            "name": "🧭 MDCF │ Multi-Dimensional Collaboration Framework",
             "path": "."
         },
 
@@ -22,6 +22,10 @@
             "name": "🧬 Foundation │ Ontology",
             "path": "../iafe-ontology"
         },
+        {
+            "name": "📚 Foundation │ Registry",
+            "path": "../iafe-registry"
+        },
 
         // ==========================================================
         // PLATFORM
@@ -35,83 +39,80 @@
             "name": "🤖 Platform │ Agents",
             "path": "../iafe-agents"
         },
+        {
+            "name": "🏗️ Platform │ Reference Architectures",
+            "path": "../iafe-reference-architectures"
+        },
 
         // ==========================================================
-        // CURRENT ARCHITECTURE
+        // IDEI
         // ==========================================================
 
         {
-            "name": "🌐 IDEI │ Infrastructure",
+            "name": "🌐 IDEI │ Intelligent Digital Ecosystem Infrastructure",
             "path": "../iafe-idei"
         },
+
+        // ==========================================================
+        // MDCF
+        // ==========================================================
+
         {
             "name": "🧭 MDCF │ Collaboration Framework",
             "path": "../iafe-mdcf"
         },
-
-        // ==========================================================
-        // FUTURE PROGRAMS
-        // ==========================================================
-
         {
-            "name": "🌍 Future │ Global Digital Infrastructure",
+            "name": "🏛️ MDCF │ Governance",
+            "path": "../iafe-governance"
+        },
+        {
+            "name": "🎓 MDCF │ Multi-Academy",
+            "path": "../iafe-academy"
+        },
+        {
+            "name": "🏭 MDCF │ Multi-Industry",
+            "path": "../iafe-industry"
+        },
+        {
+            "name": "🏢 MDCF │ Government",
+            "path": "../iafe-government"
+        },
+        {
+            "name": "🔬 MDCF │ Research",
+            "path": "../iafe-research"
+        },
+        {
+            "name": "🤝 MDCF │ Partnerships",
+            "path": "../iafe-partnerships"
+        },
+        {
+            "name": "💰 MDCF │ Funding",
+            "path": "../iafe-funding"
+        },
+        {
+            "name": "📈 MDCF │ Capability Models",
+            "path": "../iafe-capabilities"
+        },
+        {
+            "name": "📊 MDCF │ KPI & Metrics",
+            "path": "../iafe-metrics"
+        },
+        {
+            "name": "📚 MDCF │ Standards Mapping",
+            "path": "../iafe-standards"
+        },
+        {
+            "name": "🌍 MDCF │ Global Collaboration",
             "path": "../iafe-global"
         },
+
+        // ==========================================================
+        // ECOSYSTEM
+        // ==========================================================
+
         {
-            "name": "🛰️ Future │ Space & Satellite Networks",
-            "path": "../iafe-space"
-        },
-        {
-            "name": "📡 Future │ Intelligent Networking",
-            "path": "../iafe-network"
-        },
-        {
-            "name": "☁️ Future │ Cloud Fabric",
-            "path": "../iafe-cloud"
-        },
-        {
-            "name": "🔍 Future │ Semantic Search",
-            "path": "../iafe-search"
-        },
-        {
-            "name": "🧠 Future │ Knowledge Fabric",
-            "path": "../iafe-knowledge"
-        },
-        {
-            "name": "🤖 Future │ Robotics & Humanoids",
-            "path": "../iafe-robotics"
-        },
-        {
-            "name": "📞 Future │ Intelligent Communications",
-            "path": "../iafe-communications"
-        },
-        {
-            "name": "🔐 Future │ Zero Trust & PQC Security",
-            "path": "../iafe-security"
-        },
-        {
-            "name": "👁️ Future │ Observability",
-            "path": "../iafe-observability"
-        },
-        {
-            "name": "🧩 Future │ Digital Twins",
-            "path": "../iafe-digital-twins"
-        },
-        {
-            "name": "🌐 Future │ Edge Computing",
-            "path": "../iafe-edge"
-        },
-        {
-            "name": "⚛️ Future │ Quantum Services",
-            "path": "../iafe-quantum"
-        },
-        {
-            "name": "📈 Future │ Future Standards",
-            "path": "../iafe-standards-next"
-        },
-        {
-            "name": "🧪 Future │ Experimental Applications",
-            "path": "../iafe-experimental-apps"
+            "name": "🌐 Ecosystem │ FAEP Ecosystem",
+            "path": "../../gitlab/02_faep_ecosystem"
         }
 
     ],

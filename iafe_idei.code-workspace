@@ -2,7 +2,7 @@
     "folders": [
 
         {
-            "name": "🚀 IAFE │ Future & Innovation",
+            "name": "🌐 IDEI │ Intelligent Digital Ecosystem Infrastructure",
             "path": "."
         },
 
@@ -22,6 +22,10 @@
             "name": "🧬 Foundation │ Ontology",
             "path": "../iafe-ontology"
         },
+        {
+            "name": "📚 Foundation │ Registry",
+            "path": "../iafe-registry"
+        },
 
         // ==========================================================
         // PLATFORM
@@ -35,83 +39,72 @@
             "name": "🤖 Platform │ Agents",
             "path": "../iafe-agents"
         },
+        {
+            "name": "🏗️ Platform │ Reference Architectures",
+            "path": "../iafe-reference-architectures"
+        },
 
         // ==========================================================
-        // CURRENT ARCHITECTURE
+        // IDEI
         // ==========================================================
 
         {
             "name": "🌐 IDEI │ Infrastructure",
             "path": "../iafe-idei"
         },
-        {
-            "name": "🧭 MDCF │ Collaboration Framework",
-            "path": "../iafe-mdcf"
-        },
-
-        // ==========================================================
-        // FUTURE PROGRAMS
-        // ==========================================================
 
         {
-            "name": "🌍 Future │ Global Digital Infrastructure",
-            "path": "../iafe-global"
-        },
-        {
-            "name": "🛰️ Future │ Space & Satellite Networks",
-            "path": "../iafe-space"
-        },
-        {
-            "name": "📡 Future │ Intelligent Networking",
-            "path": "../iafe-network"
-        },
-        {
-            "name": "☁️ Future │ Cloud Fabric",
+            "name": "☁️ IDEI │ Cloud Fabric",
             "path": "../iafe-cloud"
         },
+
         {
-            "name": "🔍 Future │ Semantic Search",
+            "name": "📡 IDEI │ Intelligent Networking",
+            "path": "../iafe-network"
+        },
+
+        {
+            "name": "🔍 IDEI │ Semantic Search",
             "path": "../iafe-search"
         },
+
         {
-            "name": "🧠 Future │ Knowledge Fabric",
-            "path": "../iafe-knowledge"
+            "name": "🛰️ IDEI │ Satellite Platform",
+            "path": "../iafe-satellite"
         },
+
         {
-            "name": "🤖 Future │ Robotics & Humanoids",
+            "name": "🤖 IDEI │ Robotics",
             "path": "../iafe-robotics"
         },
+
         {
-            "name": "📞 Future │ Intelligent Communications",
+            "name": "🧠 IDEI │ Knowledge Fabric",
+            "path": "../iafe-knowledge"
+        },
+
+        {
+            "name": "📞 IDEI │ Communications",
             "path": "../iafe-communications"
         },
+
         {
-            "name": "🔐 Future │ Zero Trust & PQC Security",
+            "name": "🔐 IDEI │ Security",
             "path": "../iafe-security"
         },
+
         {
-            "name": "👁️ Future │ Observability",
+            "name": "👁️ IDEI │ Observability",
             "path": "../iafe-observability"
         },
+
+        // ==========================================================
+        // CORE PLATFORM
+        // ==========================================================
+
         {
-            "name": "🧩 Future │ Digital Twins",
-            "path": "../iafe-digital-twins"
-        },
-        {
-            "name": "🌐 Future │ Edge Computing",
-            "path": "../iafe-edge"
-        },
-        {
-            "name": "⚛️ Future │ Quantum Services",
-            "path": "../iafe-quantum"
-        },
-        {
-            "name": "📈 Future │ Future Standards",
-            "path": "../iafe-standards-next"
-        },
-        {
-            "name": "🧪 Future │ Experimental Applications",
-            "path": "../iafe-experimental-apps"
+            "name": "🧠 Platform │ QAI Base Platform",
+            "path": "../../gitlab/00_qai_base_platform"
         }
 
     ],

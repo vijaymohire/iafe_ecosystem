@@ -1,0 +1,85 @@
+{
+    "folders": [
+
+        {
+            "name": "🧠 IAFE │ Platform",
+            "path": "."
+        },
+
+        // ==========================================================
+        // FOUNDATION
+        // ==========================================================
+
+        {
+            "name": "📦 Foundation │ SDK",
+            "path": "../iafe-sdk"
+        },
+        {
+            "name": "📜 Foundation │ Contracts",
+            "path": "../iafe-contracts"
+        },
+        {
+            "name": "🧬 Foundation │ Ontology",
+            "path": "../iafe-ontology"
+        },
+        {
+            "name": "📚 Foundation │ Registry",
+            "path": "../iafe-registry"
+        },
+
+        // ==========================================================
+        // PLATFORM
+        // ==========================================================
+
+        {
+            "name": "🎛️ Platform │ Control Planes",
+            "path": "../iafe-control-planes"
+        },
+        {
+            "name": "🤖 Platform │ Agents",
+            "path": "../iafe-agents"
+        },
+        {
+            "name": "🏗️ Platform │ Reference Architectures",
+            "path": "../iafe-reference-architectures"
+        },
+        {
+            "name": "🧪 Platform │ Samples",
+            "path": "../iafe-samples"
+        },
+
+        // ==========================================================
+        // CORE QAI PLATFORM
+        // ==========================================================
+
+        {
+            "name": "🧠 Platform │ QAI Base Platform",
+            "path": "../../gitlab/00_qai_base_platform"
+        },
+        {
+            "name": "⚙️ Platform │ GitLab Runner",
+            "path": "../../gitlab/gitlab-runner"
+        }
+
+    ],
+
+    "settings": {
+
+        "explorer.compactFolders": false,
+
+        "explorer.sortOrder": "type",
+
+        "files.exclude": {
+            "**/.git": true
+        },
+
+        "search.exclude": {
+            "**/.git": true,
+            "**/node_modules": true,
+            "**/.venv": true,
+            "**/bin": true,
+            "**/obj": true
+        }
+
+    }
+}
