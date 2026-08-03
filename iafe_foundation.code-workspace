@@ -1,15 +1,9 @@
 {
     "folders": [
-
         {
             "name": "🏛️ IAFE │ Foundation",
             "path": "."
         },
-
-        // ==========================================================
-        // FOUNDATION
-        // ==========================================================
-
         {
             "name": "📦 Foundation │ SDK",
             "path": "../iafe-sdk"
@@ -26,42 +20,18 @@
             "name": "📚 Foundation │ Registry",
             "path": "../iafe-registry"
         },
-
-        // ==========================================================
-        // SHARED FOUNDATION LIBRARIES
-        // (Common reusable components)
-        // ==========================================================
-
         {
             "name": "🔗 Shared │ Libraries",
             "path": "../shared-libraries"
         },
-
-        // ==========================================================
-        // GITHUB PUBLIC ECOSYSTEM
-        // (Community / Education / Open Frameworks)
-        // ==========================================================
-
         {
             "name": "🌐 GitHub │ Public Frameworks",
             "path": "../github-public"
         },
-
-        // ==========================================================
-        // GITLAB PUBLIC
-        // (Professional Services / Reference Solutions)
-        // ==========================================================
-
         {
             "name": "🏢 GitLab │ IT Engineering Services",
             "path": "../IT_Engg_Services"
         },
-
-        // ==========================================================
-        // GITLAB R&D
-        // (Core Foundation Dependencies)
-        // ==========================================================
-
         {
             "name": "🧪 GitLab │ HoldCo Governance",
             "path": "../00_holdco_governance"
@@ -70,17 +40,14 @@
             "name": "🧪 GitLab │ QAI Base Platform",
             "path": "../00_qai_base_platform"
         },
-
-        // ==========================================================
-        // GITLAB IP
-        // (Enterprise / Commercial Foundation)
-        // ==========================================================
-
         {
             "name": "🔒 GitLab │ HoldCo Factory",
             "path": "../00_holdco_factory"
+        },
+        {
+            "name": "iafe-repository-bootstrap",
+            "path": "../iafe-repository-bootstrap"
         }
-
     ],
 
     "settings": {
