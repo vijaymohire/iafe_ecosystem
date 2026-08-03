@@ -67,20 +67,15 @@
         },
 
         // ==========================================================
-        // FACTORY
+        // HOLDBACK / GOVERNANCE
         // ==========================================================
 
         {
-            "name": "🏭 Factory │ HoldCo Factory",
+            "name": "🏭 HoldCo │ Factory",
             "path": "../../gitlab/00_holdco_factory"
         },
-
-        // ==========================================================
-        // GOVERNANCE
-        // ==========================================================
-
         {
-            "name": "🏛️ Governance │ HoldCo Governance",
+            "name": "🏛️ HoldCo │ Governance",
             "path": "../../gitlab/00_holdco_governance"
         },
 
@@ -104,6 +99,33 @@
         {
             "name": "🛒 Marketplace │ IAFE Marketplace",
             "path": "../iafe-marketplace"
+        },
+
+        // ==========================================================
+        // SHARED LIBRARIES
+        // ==========================================================
+
+        {
+            "name": "🔗 Shared │ Libraries",
+            "path": "../shared-libraries"
+        },
+
+        // ==========================================================
+        // GITHUB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🌐 GitHub │ Public Frameworks",
+            "path": "../github-public"
+        },
+
+        // ==========================================================
+        // GITLAB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🏢 GitLab │ IT Engineering Services",
+            "path": "../../gitlab/BhadaleIT/IT_Engg_Services"
         }
 
     ],

@@ -1,9 +1,24 @@
 {
     "folders": [
+
         {
-            "name": "🏛️ IAFE Ecosystem (Integration Hub)",
+            "name": "🏛️ IAFE │ Ecosystem (Integration Hub)",
             "path": "."
         },
+
+        // ==========================================================
+        // FOUNDATION
+        // ==========================================================
+
+        {
+            "name": "🏛️ Foundation │ Core",
+            "path": "../iafe-foundation"
+        },
+
+        // ==========================================================
+        // ACADEMY
+        // ==========================================================
+
         {
             "name": "🎓 Academy │ FAEP Education",
             "path": "../faep-education"
@@ -12,22 +27,33 @@
             "name": "🧪 Academy │ Client Labs",
             "path": "../faep-client-lab"
         },
+
+        // ==========================================================
+        // PLATFORM
+        // ==========================================================
+
         {
             "name": "🧠 Platform │ QAI Base Platform",
             "path": "../../gitlab/00_qai_base_platform"
         },
+
+        // ==========================================================
+        // HOLDBACK / GOVERNANCE
+        // ==========================================================
+
         {
-            "name": "⚙️ Platform │ GitLab Runner",
-            "path": "../../gitlab/gitlab-runner"
-        },
-        {
-            "name": "🏭 Factory │ HoldCo Factory",
+            "name": "🏭 HoldCo │ Factory",
             "path": "../../gitlab/00_holdco_factory"
         },
         {
-            "name": "🏛️ Governance │ HoldCo Governance",
+            "name": "🏛️ HoldCo │ Governance",
             "path": "../../gitlab/00_holdco_governance"
         },
+
+        // ==========================================================
+        // ECOSYSTEM
+        // ==========================================================
+
         {
             "name": "🌆 Ecosystem │ QAI Valley & City",
             "path": "../../gitlab/01_qai_valley_city"
@@ -35,13 +61,63 @@
         {
             "name": "🌐 Ecosystem │ FAEP Ecosystem",
             "path": "../../gitlab/02_faep_ecosystem"
+        },
+
+        // ==========================================================
+        // SHARED LIBRARIES
+        // ==========================================================
+
+        {
+            "name": "🔗 Shared │ Libraries",
+            "path": "../shared-libraries"
+        },
+
+        // ==========================================================
+        // GITHUB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🌐 GitHub │ Public Frameworks",
+            "path": "../github-public"
+        },
+
+        // ==========================================================
+        // GITLAB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🏢 GitLab │ IT Engineering Services",
+            "path": "../../gitlab/BhadaleIT/IT_Engg_Services"
+        },
+
+        // ==========================================================
+        // OPERATIONS
+        // ==========================================================
+
+        {
+            "name": "⚙️ Operations │ GitLab Runner",
+            "path": "../../gitlab/gitlab-runner"
         }
+
     ],
+
     "settings": {
+
         "explorer.compactFolders": false,
+
         "explorer.sortOrder": "type",
+
         "files.exclude": {
             "**/.git": true
+        },
+
+        "search.exclude": {
+            "**/.git": true,
+            "**/node_modules": true,
+            "**/.venv": true,
+            "**/bin": true,
+            "**/obj": true
         }
+
     }
 }

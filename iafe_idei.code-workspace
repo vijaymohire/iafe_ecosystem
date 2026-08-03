@@ -32,6 +32,10 @@
         // ==========================================================
 
         {
+            "name": "🧠 Platform │ QAI Base Platform",
+            "path": "../../gitlab/00_qai_base_platform"
+        },
+        {
             "name": "🎛️ Platform │ Control Planes",
             "path": "../iafe-control-planes"
         },
@@ -52,59 +56,81 @@
             "name": "🌐 IDEI │ Infrastructure",
             "path": "../iafe-idei"
         },
-
         {
             "name": "☁️ IDEI │ Cloud Fabric",
             "path": "../iafe-cloud"
         },
-
         {
             "name": "📡 IDEI │ Intelligent Networking",
             "path": "../iafe-network"
         },
-
         {
             "name": "🔍 IDEI │ Semantic Search",
             "path": "../iafe-search"
         },
-
         {
             "name": "🛰️ IDEI │ Satellite Platform",
             "path": "../iafe-satellite"
         },
-
         {
             "name": "🤖 IDEI │ Robotics",
             "path": "../iafe-robotics"
         },
-
         {
             "name": "🧠 IDEI │ Knowledge Fabric",
             "path": "../iafe-knowledge"
         },
-
         {
             "name": "📞 IDEI │ Communications",
             "path": "../iafe-communications"
         },
-
         {
             "name": "🔐 IDEI │ Security",
             "path": "../iafe-security"
         },
-
         {
             "name": "👁️ IDEI │ Observability",
             "path": "../iafe-observability"
         },
 
         // ==========================================================
-        // CORE PLATFORM
+        // HOLDBACK / GOVERNANCE
         // ==========================================================
 
         {
-            "name": "🧠 Platform │ QAI Base Platform",
-            "path": "../../gitlab/00_qai_base_platform"
+            "name": "🏛️ HoldCo │ Governance",
+            "path": "../../gitlab/00_holdco_governance"
+        },
+        {
+            "name": "🏭 HoldCo │ Factory",
+            "path": "../../gitlab/00_holdco_factory"
+        },
+
+        // ==========================================================
+        // SHARED LIBRARIES
+        // ==========================================================
+
+        {
+            "name": "🔗 Shared │ Libraries",
+            "path": "../shared-libraries"
+        },
+
+        // ==========================================================
+        // GITHUB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🌐 GitHub │ Public Frameworks",
+            "path": "../github-public"
+        },
+
+        // ==========================================================
+        // GITLAB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🏢 GitLab │ IT Engineering Services",
+            "path": "../../gitlab/BhadaleIT/IT_Engg_Services"
         }
 
     ],

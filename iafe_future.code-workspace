@@ -22,11 +22,19 @@
             "name": "🧬 Foundation │ Ontology",
             "path": "../iafe-ontology"
         },
+        {
+            "name": "📚 Foundation │ Registry",
+            "path": "../iafe-registry"
+        },
 
         // ==========================================================
         // PLATFORM
         // ==========================================================
 
+        {
+            "name": "🧠 Platform │ QAI Base Platform",
+            "path": "../../gitlab/00_qai_base_platform"
+        },
         {
             "name": "🎛️ Platform │ Control Planes",
             "path": "../iafe-control-planes"
@@ -112,6 +120,42 @@
         {
             "name": "🧪 Future │ Experimental Applications",
             "path": "../iafe-experimental-apps"
+        },
+
+        // ==========================================================
+        // SHARED LIBRARIES
+        // ==========================================================
+
+        {
+            "name": "🔗 Shared │ Libraries",
+            "path": "../shared-libraries"
+        },
+
+        // ==========================================================
+        // GITHUB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🌐 GitHub │ Public Frameworks",
+            "path": "../github-public"
+        },
+
+        // ==========================================================
+        // GITLAB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🏢 GitLab │ IT Engineering Services",
+            "path": "../../gitlab/BhadaleIT/IT_Engg_Services"
+        },
+
+        // ==========================================================
+        // GITLAB R&D
+        // ==========================================================
+
+        {
+            "name": "🧪 GitLab │ Research Platform",
+            "path": "../../gitlab/00_qai_base_platform"
         }
 
     ],

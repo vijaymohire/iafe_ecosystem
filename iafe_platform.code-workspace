@@ -32,6 +32,10 @@
         // ==========================================================
 
         {
+            "name": "🧠 Platform │ QAI Base Platform",
+            "path": "../../gitlab/00_qai_base_platform"
+        },
+        {
             "name": "🎛️ Platform │ Control Planes",
             "path": "../iafe-control-planes"
         },
@@ -49,15 +53,51 @@
         },
 
         // ==========================================================
-        // CORE QAI PLATFORM
+        // HOLDBACK / GOVERNANCE
         // ==========================================================
 
         {
-            "name": "🧠 Platform │ QAI Base Platform",
-            "path": "../../gitlab/00_qai_base_platform"
+            "name": "🏛️ HoldCo │ Governance",
+            "path": "../../gitlab/00_holdco_governance"
         },
         {
-            "name": "⚙️ Platform │ GitLab Runner",
+            "name": "🏭 HoldCo │ Factory",
+            "path": "../../gitlab/00_holdco_factory"
+        },
+
+        // ==========================================================
+        // SHARED LIBRARIES
+        // ==========================================================
+
+        {
+            "name": "🔗 Shared │ Libraries",
+            "path": "../shared-libraries"
+        },
+
+        // ==========================================================
+        // GITHUB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🌐 GitHub │ Public Frameworks",
+            "path": "../github-public"
+        },
+
+        // ==========================================================
+        // GITLAB PUBLIC
+        // ==========================================================
+
+        {
+            "name": "🏢 GitLab │ IT Engineering Services",
+            "path": "../../gitlab/BhadaleIT/IT_Engg_Services"
+        },
+
+        // ==========================================================
+        // PLATFORM OPERATIONS
+        // ==========================================================
+
+        {
+            "name": "⚙️ Operations │ GitLab Runner",
             "path": "../../gitlab/gitlab-runner"
         }
 
@@ -79,7 +119,11 @@
             "**/.venv": true,
             "**/bin": true,
             "**/obj": true
-        }
+        },
+
+        "workbench.editor.enablePreview": false,
+
+        "explorer.confirmDelete": false
 
     }
 }
