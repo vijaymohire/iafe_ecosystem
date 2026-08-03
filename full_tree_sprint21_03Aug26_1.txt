@@ -1,0 +1,379 @@
+Folder PATH listing
+Volume serial number is 000000AE 60BA:9B53
+E:.
+|   .gitignore
+|   ARCHITECTURE.md
+|   CHANGELOG.md
+|   CONTRIBUTING.md
+|   DIRECTORY_STRUCTURE.md
+|   full_tree_sprint21_03Aug26_1.txt
+|   iafe.code-workspace
+|   iafe_applications.code-workspace
+|   iafe_ecosystem.code-workspace
+|   iafe_foundation.code-workspace
+|   iafe_future.code-workspace
+|   iafe_idei.code-workspace
+|   iafe_mdcf.code-workspace
+|   iafe_platform.code-workspace
+|   iafe_release.code-workspace
+|   LICENSE
+|   PRINCIPLES.md
+|   README.md
+|   REPOSITORIES.md
+|   ROADMAP.md
+|   VISION.md
+|   WORKSPACE_GUIDE.md
+|   
++---.github
+|       README_GITHUB.md
+|       
++---agents
+|   |   README.md
+|   |   
+|   +---digital_twins
+|   +---education
+|   +---factory
+|   +---governance
+|   +---marketplace
+|   +---orchestration
+|   +---planning
+|   +---research
+|   +---robotics
+|   +---security
+|   \---simulation
++---assets
+|   |   README.md
+|   |   
+|   +---banners
+|   |       README.md
+|   |       
+|   +---branding
+|   |       README.md
+|   |       
+|   +---diagrams
+|   |       README.md
+|   |       
+|   +---icons
+|   |       README.md
+|   |       
+|   +---linkedin
+|   |       README.md
+|   |       
+|   +---logos
+|   |       README.md
+|   |       
+|   \---presentations
+|           README.md
+|           
++---contracts
+|   |   README.md
+|   |   
+|   +---capabilities
+|   +---events
+|   +---funding
+|   +---identity
+|   +---knowledge
+|   +---organizations
+|   +---people
+|   +---products
+|   +---projects
+|   +---resources
+|   \---supply_chain
++---control_planes
+|   |   README.md
+|   |   
+|   +---academy
+|   +---cloud
+|   +---digital_twins
+|   +---government
+|   +---identity
+|   +---industry
+|   +---knowledge
+|   +---marketplace
+|   +---network
+|   +---operations
+|   +---qai
+|   +---research
+|   \---security
++---devops
+|   |   README.md
+|   |   
+|   +---cd
+|   +---ci
+|   +---metrics
+|   +---release
+|   +---testing
+|   \---validation
++---diagrams
+|       README.md
+|       
++---docs
+|   |   ACADEMY_FACTORY_MODEL.md
+|   |   CAPABILITY_MATRIX.md
+|   |   DEPENDENCY_MODEL.md
+|   |   ENTERPRISE_CAPABILITY_MAP.md
+|   |   GOVERNANCE_MODEL.md
+|   |   INTEGRATION_GUIDE.md
+|   |   MULTI_LEVEL_ARCHITECTURE.md
+|   |   OVERVIEW.md
+|   |   POLICY_FRAMEWORK.md
+|   |   PRODUCER_CONSUMER_MODEL.md
+|   |   QAI_INTEGRATION.md
+|   |   README.md
+|   |   REPOSITORY_MAP.md
+|   |   
+|   +---academy
+|   +---architecture
+|   |       README.md
+|   |       
+|   +---case_studies
+|   |       README.md
+|   |       
+|   +---ecosystem
+|   +---factory
+|   +---governance
+|   +---knowledge
+|   +---platform
+|   +---presentations
+|   |       README.md
+|   |       
+|   +---products
+|   +---reference
+|   |       README.md
+|   |       
+|   +---research
+|   +---roadmaps
+|   |       README.md
+|   |       
+|   +---standards
+|   |       README.md
+|   |       
+|   \---whitepapers
+|           README.md
+|           
++---ecosystem
+|   |   README.md
+|   |   
+|   +---business_models
+|   +---capabilities
+|   +---deployment_models
+|   +---engagement_models
+|   +---funding_models
+|   +---governance_models
+|   +---market_models
+|   +---operating_models
+|   \---participants
++---examples
+|       README.md
+|       
++---frameworks
+|       academy.md
+|       ecosystem.md
+|       factory.md
+|       faep.md
+|       fsdp.md
+|       governance.md
+|       innovation.md
+|       knowledge.md
+|       qai.md
+|       README.md
+|       
++---future
+|   |   README.md
+|   |   
+|   +---concepts
+|   +---experiments
+|   +---incubation
+|   +---prototypes
+|   +---roadmaps
+|   +---standards_watch
+|   \---technology_watch
++---idei
+|   |   README.md
+|   |   
+|   +---cloud
+|   +---communications
+|   +---digital_twins
+|   +---edge
+|   +---identity
+|   +---knowledge
+|   +---networking
+|   +---robotics
+|   +---satellite
+|   +---search
+|   \---services
++---integrations
+|       academy_factory.md
+|       academy_research.md
+|       ecosystem.md
+|       factory_platform.md
+|       platform_governance.md
+|       products_platform.md
+|       README.md
+|       research_factory.md
+|       
++---interfaces
+|       IAcademy.md
+|       IFactory.md
+|       IGovernance.md
+|       IIntegration.md
+|       IKnowledge.md
+|       IProduct.md
+|       IQAIPlatform.md
+|       IRepository.md
+|       IResearch.md
+|       README.md
+|       
++---maps
+|   |   README.md
+|   |   
+|   +---capability
+|   +---ecosystem
+|   +---industry
+|   +---knowledge
+|   +---partner
+|   +---policy
+|   +---supply_chain
+|   \---technology
++---marketplace
+|   |   README.md
+|   |   
+|   +---ai_agents
+|   +---courses
+|   +---datasets
+|   +---digital_twins
+|   +---products
+|   +---services
+|   +---simulations
+|   \---templates
++---mdcf
+|   |   README.md
+|   |   
+|   +---dimensions
+|   +---governance
+|   +---levels
+|   +---metrics
+|   +---patterns
+|   \---reference_models
++---ontology
+|   |   README.md
+|   |   
+|   +---agriculture
+|   +---education
+|   +---energy
+|   +---finance
+|   +---government
+|   +---healthcare
+|   +---industry
+|   +---manufacturing
+|   +---robotics
+|   +---standards
+|   \---transportation
++---registry
+|   |   README.md
+|   |   
+|   +---agents
+|   +---datasets
+|   +---digital_twins
+|   +---experts
+|   +---frameworks
+|   +---industries
+|   +---organizations
+|   +---products
+|   +---projects
+|   +---services
+|   \---universities
++---releases
+|   |   README.md
+|   |   
+|   \---2026
+|       |   README.md
+|       |   
+|       +---v1
+|       |       README.md
+|       |       
+|       \---v2
+|               README.md
+|               
++---schemas
+|   |   README.md
+|   |   
+|   +---graphql
+|   +---json
+|   +---openapi
+|   +---protobuf
+|   +---xml
+|   \---yaml
++---sdk
+|   |   README.md
+|   |   
+|   +---cloud
+|   +---digital_twins
+|   +---events
+|   +---identity
+|   +---knowledge
+|   +---logging
+|   +---messaging
+|   +---qai
+|   +---security
+|   +---telemetry
+|   \---utilities
++---simulation
+|   |   README.md
+|   |   
+|   +---cities
+|   +---energy
+|   +---factories
+|   +---healthcare
+|   +---robotics
+|   +---space
+|   +---supply_chains
+|   \---transportation
++---standards
+|   |   README.md
+|   |   
+|   +---compliance
+|   +---governance
+|   +---ieee
+|   +---industry_5
+|   +---iso
+|   +---nist
+|   \---society_5
++---templates
+|       Architecture_Template.md
+|       Checklist_Template.md
+|       Decision_Record_Template.md
+|       Meeting_Notes_Template.md
+|       Proposal_Template.md
+|       README.md
+|       Release_Notes_Template.md
+|       Research_Paper_Template.md
+|       Specification_Template.md
+|       Whitepaper_Template.md
+|       
++---tools
+|   |   full_tree_sprint21_02Aug26_1.txt
+|   |   full_tree_sprint21_02Aug26_2.txt
+|   |   README.md
+|   |   
+|   \---scripts
+|           Create_IAFE_Support_Files.ps1
+|           Documentation_Structure_Generator.ps1
+|           IAFE_Workspace_Expansion_Script.ps1
+|           
++---whitepapers
+|   |   README.md
+|   |   
+|   +---academy
+|   +---iafe
+|   +---idei
+|   +---industry
+|   +---mdcf
+|   \---qai
+\---workspace
+    |   README.md
+    |   
+    +---dependency_graphs
+    +---repository_maps
+    +---templates
+    \---vscode
